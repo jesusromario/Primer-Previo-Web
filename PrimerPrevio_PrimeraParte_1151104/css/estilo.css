@@ -1,0 +1,22 @@
+#imagenHeader{
+  width: 2.7cm;
+}
+.page-header{
+  margin-top: 0;
+  margin-bottom: 1cm;
+  padding-top: 0.5cm;
+  padding-bottom: 1.3cm;
+  padding-left: 0.3cm;
+  border-bottom: 0.15cm;
+  border-bottom-style: solid;
+  border-bottom-color: black;
+
+  background-color: RGB(17,125,194);
+  color: white;
+}
+.contenido{
+  padding-left: 1cm
+}
+#imagenBody1{
+  width: 10cm;
+}
