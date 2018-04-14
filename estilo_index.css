@@ -16,5 +16,11 @@ h1{
   border-style: solid;
   border-color: white;
   color: white;
-  vertical-align: middle;
+}
+h1:hover{
+  color: RGB(238,185,96);
+  border-color: RGB(238,185,96);
+}
+a{
+  text-decoration: none;
 }
